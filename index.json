@@ -1,7 +1,7 @@
 {
-  "library": "DrumGizmo.DRSKit",
+  "library": "drumgizmo-drskit",
   "format": "opus-48k",
-  "sourceRepo": "https://github.com/zulfikarbarbora-outl/DrumGizmo.DRSKit",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/drumgizmo-drskit",
   "previewRepo": "https://github.com/zulfikarbarbora-outl/drumgizmo-drskit-opus-48",
   "branch": "master",
   "fileCount": 6019,
