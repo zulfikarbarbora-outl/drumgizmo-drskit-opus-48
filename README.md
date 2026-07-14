@@ -1,6 +1,6 @@
 # drumgizmo-drskit-opus-48
 
-Opus 48 kbps preview MP3s for the **DrumGizmo.DRSKit** sample library.
+Opus 48 kbps preview MP3s for the **drumgizmo-drskit** sample library.
 
 ## About
 
@@ -10,7 +10,7 @@ Opus at 48k delivers near-CD quality at ~35% the size of MP3 128k.
 - **Files**: 6019 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
-- **Source**: [`zulfikarbarbora-outl/DrumGizmo.DRSKit`](https://github.com/zulfikarbarbora-outl/DrumGizmo.DRSKit)
+- **Source**: [`zulfikarbarbora-outl/drumgizmo-drskit`](https://github.com/zulfikarbarbora-outl/drumgizmo-drskit)
 - **Branch**: `master`
 
 ## URL pattern
